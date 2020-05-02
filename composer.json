@@ -1,0 +1,27 @@
+{
+    "name": "softwex/carriers",
+    "description": "",
+    "require": {
+        "php": ">=7.1",
+        "tecnickcom/tcpdf": "^6.2",
+        "setasign/fpdf": "~1.8",
+        "setasign/tfpdf": "1.25",
+        "setasign/fpdi": "^2.2",
+        "setasign/fpdi-tcpdf": "^2.2",
+        "giggsey/locale": "^1.2",
+        "giggsey/libphonenumber-for-php": "^8.8"
+    },
+    "type": "magento2-module",
+    "version": "1.0.3",
+    "license": [
+        "LICENSE.md" 
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Softwex\\Carriers\\": ""
+        }
+    }
+}
