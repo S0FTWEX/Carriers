@@ -11,7 +11,7 @@ Core extension required by couple of Softwex extensions.
   * Composer
 
 ## Install with (and only) [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer)
-  * run following commands to install module:
+  * run following command to install module:
 ```bash
 composer require softwex/carriers
 ```
@@ -30,6 +30,6 @@ and wait while dependencies are updated.
 
 The Open Software License v. 3.0 (OSL-3.0). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/github/release/SOFTWEX/Carries.svg?style=flat-square
+[ico-version]: https://img.shields.io/github/release/S0FTWEX/Carriers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-OSL--3.0-brightgreen.svg?style=flat-square
-[link-release]: https://github.com/SOFTWEX/Carries/releases/latest
+[link-release]: https://github.com/S0FTWEX/Carriers/releases/latest
